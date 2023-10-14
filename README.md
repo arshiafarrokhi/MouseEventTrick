@@ -6,11 +6,11 @@
     You can get more information from my personal website
     <br/>
     <br/>
-    <a href="https://arshiafarrokhi.github.io/WeatherSite/">View Demo</a>
+    <a href="https://arshiafarrokhi.github.io/MouseEventTrick/">View Demo</a>
     .
-    <a href="https://arshiafarrokhi.github.io/WeatherSite/issues">Report Bug</a>
+    <a href="https://arshiafarrokhi.github.io/MouseEventTrick/issues">Report Bug</a>
     .
-    <a href="https://arshiafarrokhi.github.io/WeatherSite/issues">Request Feature</a>
+    <a href="https://arshiafarrokhi.github.io/MouseEventTrick/issues">Request Feature</a>
   </p>
 </p>
 
